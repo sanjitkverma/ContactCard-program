@@ -30,7 +30,7 @@ public class Contact {
 
 
     public String toString(){
-        return firstName + " "+ lastName;
+        return firstName + " "+ lastName + System.lineSeparator()+phoneNumber+ System.lineSeparator()+ emailAddress;
 
 
 
