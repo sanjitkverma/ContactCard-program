@@ -1,11 +1,7 @@
 # Lab-1
 ## Debugging and GitHub
+In this lab I created a contact card system so it can run and store user names, 
 
-This is the first lab for COMP 167 Computer Program Design at North Carolina A&T State University
-
-Instructor: Professor Karen Schnell - klschnell@ncat.edu
-
-The objective of this lab is to introduce you to git and GitHub, two tools that will be used _extensively_ this semester, as well as the IntelliJ IDE.
 
 ### What is Git?
 
